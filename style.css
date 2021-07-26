@@ -382,8 +382,14 @@ p.citation
     font-size: 20px;
     border:2px transparent;
     padding-left:10%;
-    width:550px;
+    width:600px;
    
+}
+
+div.col-xs-12
+p.pdg
+{
+font-size:15px;
 }
 
 @media (min-width: 768px) {
