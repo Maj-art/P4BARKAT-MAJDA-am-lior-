@@ -362,6 +362,30 @@ a:hover {
     z-index: 2;
 }
 
+div.row
+div.col-sm-12 
+p
+{
+    font-weight: 400;
+    font-size: 25px;
+    border:2px transparent;
+    padding-left:10%;
+    width:800px;
+
+
+}
+
+div.col-xs-12
+p.citation
+{
+    font-weight: 300;
+    font-size: 20px;
+    border:2px transparent;
+    padding-left:10%;
+    width:550px;
+   
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
