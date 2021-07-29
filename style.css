@@ -392,6 +392,15 @@ p.pdg
 font-size:15px;
 }
 
+div.row 
+div.col-sm-12 
+p.realisations
+{
+    font-size: 22px;
+    padding-left:20%;
+
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
