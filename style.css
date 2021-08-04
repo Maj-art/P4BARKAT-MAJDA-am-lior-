@@ -367,13 +367,27 @@ div.col-sm-12
 p
 {
     font-weight: 400;
-    font-size: 25px;
+    font-size: 18px;
     border:2px transparent;
-    padding-left:10%;
     width:800px;
-
-
+    padding-left:10%;
+    
 }
+
+div.row
+div.col-sm-12 
+.text-center
+{
+    font-weight: 400;
+    font-size: 18px;
+    border:2px transparent;
+    width:500px;
+    padding-left: 0;
+    
+    
+    
+}
+
 
 div.col-xs-12
 p.citation
@@ -400,6 +414,8 @@ p.realisations
     padding-left:20%;
 
 }
+
+
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -815,9 +831,14 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
-
+div.row
+p.tc-white
+{
+    font-size: 25px;
+    
+}
 .btn-atomic-tangerine {
     color: #F3976C!important;
     color: #FFFFFF!important;
