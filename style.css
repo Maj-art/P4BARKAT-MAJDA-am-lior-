@@ -388,6 +388,12 @@ div.col-sm-12
     
 }
 
+div.text-center
+h2
+{
+    width:100%;
+}
+
 
 div.col-xs-12
 p.citation
@@ -396,7 +402,7 @@ p.citation
     font-size: 20px;
     border:2px transparent;
     padding-left:10%;
-    width:600px;
+    width:100%;
    
 }
 
@@ -404,6 +410,8 @@ div.col-xs-12
 p.pdg
 {
 font-size:15px;
+width: 100%;
+padding-left: 10%;
 }
 
 div.row 
@@ -744,6 +752,7 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+    
 }
 
 .cta-hero {
@@ -780,6 +789,7 @@ h3 {
 
 h1 {
     color: #333333!important;
+    
 }
 
 h4 {
