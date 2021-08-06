@@ -427,6 +427,20 @@ p.realisations
     padding-left:20%;
 
 }
+div.row
+div.col-sm-12
+h1.tc-white
+{
+    font-weight: 800;
+    font-size: 30px;
+}
+div.row
+div.col-sm-12
+p.text-center
+{
+    font-weight: 800;
+    font-size: 20px;
+}
 
 
 
