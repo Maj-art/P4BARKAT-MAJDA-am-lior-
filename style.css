@@ -821,7 +821,13 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color:white!important;
+}
+
+div.row
+p.white1
+{
+    color:black;
 }
 
 .portfolio-thumb {
@@ -865,10 +871,15 @@ h4 {
     
 }
 div.row
+div.col-sm-4
+ul a
+{
+color:
+}
+div.row
 p.tc-white
 {
     font-size: 25px;
-    
         
 }
 .btn-atomic-tangerine {
