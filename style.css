@@ -315,6 +315,13 @@ a:hover {
     margin: 0;
 }
 
+div.col-sm-6 img
+{
+    width:100%;
+    overflow: hidden;
+}
+
+
 .navbar .nav {
     padding-top: 2px;
     margin-right: -16px;
@@ -369,8 +376,7 @@ p
     font-weight: 400;
     font-size: 18px;
     border:2px transparent;
-    width:800px;
-    padding-left:10%;
+    width:80%;
     
 }
 
@@ -381,11 +387,9 @@ div.col-sm-12
     font-weight: 400;
     font-size: 18px;
     border:2px transparent;
-    width:500px;
+    width:100%;
     padding-left: 0;
-    
-    
-    
+        
 }
 
 div.text-center
@@ -393,6 +397,7 @@ h2
 {
     width:100%;
 }
+
 
 
 div.col-xs-12
@@ -843,12 +848,14 @@ h4 {
 .tc-white {
     color: #F3976C!important;
     
+    
 }
 div.row
 p.tc-white
 {
     font-size: 25px;
     
+        
 }
 .btn-atomic-tangerine {
     color: #F3976C!important;
@@ -897,6 +904,9 @@ p.tc-white
     background-image: url("img/image-de-presentation.bmp");
 }
 
+
+
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -910,6 +920,9 @@ p.tc-white
         padding-right: 0;
     }
 }
+
+
+    
 
 @media (max-width: 992px) and (min-width: 768px) {
     .navbar .nav {
@@ -1107,8 +1120,11 @@ p.tc-white
     }
 }
 
+
+
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
     }
 }
+
