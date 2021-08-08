@@ -953,7 +953,7 @@ p.tc-white
     }
 }
 
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     .b-parallax {
         background-attachment: scroll;
     }
@@ -978,8 +978,8 @@ p.tc-white
         position: relative;
     }
     .bloc {
-        padding-left:env(safe-area-inset-left);
-        padding-right:env(safe-area-inset-right);
+        padding:env(safe-area-inset-left);
+        padding:env(safe-area-inset-right);
     }
     .bloc-group,
     .bloc-group .bloc {
