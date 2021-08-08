@@ -977,10 +977,7 @@ p.tc-white
         overflow-x: hidden;
         position: relative;
     }
-    .bloc {
-        padding:env(safe-area-inset-left);
-        padding:env(safe-area-inset-right);
-    }
+    
     .bloc-group,
     .bloc-group .bloc {
         display: block;
